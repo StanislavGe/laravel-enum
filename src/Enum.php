@@ -1,10 +1,10 @@
 <?php
 
-namespace MadWeb\Enum;
+namespace StanislavGe\Enum;
 
 use Illuminate\Container\Container;
 use Illuminate\Contracts\Database\Eloquent\CastsAttributes;
-use MadWeb\Enum\Rules\EnumRule;
+use StanislavGe\Enum\Rules\EnumRule;
 use MyCLabs\Enum\Enum as MyCLabsEnum;
 
 abstract class Enum extends MyCLabsEnum implements CastsAttributes

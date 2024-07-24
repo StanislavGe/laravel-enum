@@ -1,9 +1,9 @@
 <?php
 
-namespace MadWeb\Enum;
+namespace StanislavGe\Enum;
 
 /**
- * @mixin \MadWeb\Enum\Enum
+ * @mixin \StanislavGe\Enum\Enum
  * @internal Uses for custom casting implementation
  */
 trait EnumCastable

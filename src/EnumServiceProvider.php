@@ -1,9 +1,9 @@
 <?php
 
-namespace MadWeb\Enum;
+namespace StanislavGe\Enum;
 
 use Illuminate\Support\ServiceProvider;
-use MadWeb\Enum\Console\EnumMakeCommand;
+use StanislavGe\Enum\Console\EnumMakeCommand;
 
 class EnumServiceProvider extends ServiceProvider
 {
