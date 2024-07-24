@@ -31,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "MadWeb\\Enum\\": "src"
+            "StanislavGe\\Enum\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MadWeb\\Enum\\Test\\": "tests"
+            "StanislavGe\\Enum\\Test\\": "tests"
         }
     },
     "scripts": {
@@ -48,7 +48,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MadWeb\\Enum\\EnumServiceProvider"
+                "StanislavGe\\Enum\\EnumServiceProvider"
             ]
         }
     }
